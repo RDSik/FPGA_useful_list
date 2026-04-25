@@ -166,6 +166,7 @@
 * [VSCode-SystemVerilog](https://github.com/eirikpre/VSCode-SystemVerilog.git)- SystemVerilog support in VS Code
 * [OpenRAM](https://github.com/VLSIDA/OpenRAM.git) - An open-source static random access memory (SRAM) compiler\
 * [Slang](https://github.com/MikePopoloski/slang.git) - SystemVerilog compiler and language services
+* [Slang-server](https://github.com/hudson-trading/slang-server.git) - A SystemVerilog language server based on the Slang library.
 
 #### Peoples
 * [Artin Isagholian](https://github.com/0xArt)
